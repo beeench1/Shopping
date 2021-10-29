@@ -1,6 +1,6 @@
 ### Spring Boot를 이용한 쇼핑몰 프로젝트
 
-![img](C:/Users/dabee/OneDrive/%EB%B0%94%ED%83%95%20%ED%99%94%EB%A9%B4/img.png)
+![img](https://www.google.com/url?sa=i&url=https%3A%2F%2Fspring.io%2Fprojects%2Fspring-boot&psig=AOvVaw379DR9NPtbyT8i-LR7rKLp&ust=1635572164601000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPDs8aLz7vMCFQAAAAAdAAAAABAu)
 
 > 쇼핑몰 기능
 
