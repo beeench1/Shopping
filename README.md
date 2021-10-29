@@ -18,19 +18,11 @@
 
 > 작동 구조
 
-`Request`  -	-	-	-	 `Controller` -	-	-	-  `Model(mybatis -> sql)`
+`Request`  -	-	-	-	 `Controller` -	-	-	-  `Model(mybatis -> sql)`</br>
+                          </br>
+                          |</br>
+                          </br>
+                     `View Page`	
 
-​	  |									     |					
 
-​	  |									     |			
-
-​	  |									     |   **Tiles**
-
-​	  |									     |
-
-​	  |									     |
-
-​		 	-	-	-	-		 `View Page`	
-
-​			   **submit**
 
