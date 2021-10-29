@@ -19,18 +19,8 @@
 > 작동 구조
 
 `Request`  -	-	-	-	 `Controller` -	-	-	-  `Model(mybatis -> sql)`
+                          |
+	                   `View Page`	
 
-​	  |									     |					
-
-​	  |									     |			
-
-​	  |									     |   **Tiles**
-
-​	  |									     |
-
-​	  |									     |
-
-​		 	-	-	-	-		 `View Page`	
-
-​			   **submit**
+			   
 
